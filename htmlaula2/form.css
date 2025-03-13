@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+textarea{
+    width: 220px;
+    border-radius: 4px;
+
+}
+
+
+button{
+    width: 100px;
+    height: 30px;
+    color: blue;
+    background-color: antiquewhite
+}
+
+button.lower{
+    color: aliceblue;
+    background-color: blue;
+    font-weight: bold;
+}
