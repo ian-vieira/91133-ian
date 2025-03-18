@@ -1,0 +1,80 @@
+
+/* zera as conf da pag */
+
+*{
+
+    margin: 0; /*zera margem*/
+    padding: 0; /*zera espaço*/
+    box-sizing: border-box; /*zera bordas*/
+
+
+}
+
+header{
+
+    background-color: rgb(101, 114, 235);
+    margin: 50px;
+    padding: 30px;
+
+}
+
+ul li{
+
+    /*tira as bolinhas*/
+    list-style: none;
+    display: inline;
+    padding: 12px;
+
+}
+
+a{
+    /*tira o sublinhado*/
+    text-decoration: none;
+    color: rgb(10, 8, 37);
+    font-weight:bold ;
+    font-size: 18pt;
+    cursor: pointer;
+   
+   
+}
+
+a:hover{
+    color: rgb(136, 18, 18);
+    text-decoration: overline;
+    padding: 6px;
+    transition: 5ms;
+
+}
+
+section{
+    margin: 50px;
+   
+}
+
+
+
+h2{
+    background-color: rgb(184, 190, 247);
+}
+    *
+
+/*    
+.about{
+    background-color:  rgb(184, 190, 247);
+}
+*/
+
+#font-type{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+p{
+    padding: 10px;
+    text-align: justify;
+
+}
+
+footer
+.rodape{
+    margin: 1%;
+    text-align: center;
+}
